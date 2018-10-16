@@ -1,2 +1,3 @@
 # lb4-todo-app
-LoopBack 4 Todo Application Tutorial
+
+[![LoopBack](https://github.com/strongloop/loopback-next/raw/master/docs/site/imgs/branding/Powered-by-LoopBack-Badge-(blue)-@2x.png)](http://loopback.io/)
